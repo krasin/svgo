@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"flag"
 	"xml"
-	"github.com/ajstarks/svgo"
+	"github.com/krasin/svgo"
 )
 
 type Parameters struct {

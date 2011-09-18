@@ -3,7 +3,7 @@
 package main
 
 import (
-	"github.com/ajstarks/svgo"
+	"github.com/krasin/svgo"
 	"os"
 	"math"
 )
@@ -450,9 +450,9 @@ func main() {
 	canvas.Title("SVG Go Library Description")
 	canvas.Rect(0, 0, width, height, "fill:white;stroke:black;stroke-width:2")
 	canvas.Gstyle(gtextstyle)
-	canvas.Link("http://github.com/ajstarks/svgo", "SVGo Library")
+	canvas.Link("http://github.com/krasin/svgo", "SVGo Library")
 	canvas.Text(width/2, 150, "SVG Go Library", "font-size:125px")
-	canvas.Text(width/2, 200, "github.com/ajstarks/svgo", "font-size:50px;fill:gray")
+	canvas.Text(width/2, 200, "github.com/krasin/svgo", "font-size:50px;fill:gray")
 	canvas.LinkEnd()
 	placeobjects(200, 400, 600, 450, roworder)
 	canvas.Gend()

@@ -1,10 +1,10 @@
 // Planets: an exploration of scale
-// Anthony Starks, ajstarks@gmail.com
+// Anthony Starks, krasin@gmail.com
 
 package main
 
 import (
-	"github.com/ajstarks/svgo"
+	"github.com/krasin/svgo"
 	"os"
 	"flag"
 	"image/png"

@@ -2,7 +2,7 @@ package main
 
 import (
 	"os"
-	"github.com/ajstarks/svgo"
+	"github.com/krasin/svgo"
 )
 
 func main() {

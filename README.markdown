@@ -19,18 +19,18 @@ See svgdef.[svg|png|pdf] for a graphical view of the function calls
 
 Usage: 
 
-	goinstall github.com/ajstarks/svgo
+	goinstall github.com/krasin/svgo
 	
 to install into your Go environment. To update the library you can use:
 
-	goinstall -clean -u -v github.com/ajstarks/svgo
+	goinstall -clean -u -v github.com/krasin/svgo
 
 a minimal program, to generate SVG to standard output.
 
 	package main
 	
 	import (
-		"github.com/ajstarks/svgo"
+		"github.com/krasin/svgo"
 		"os"
 	)
 	

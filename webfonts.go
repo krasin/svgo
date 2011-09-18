@@ -7,7 +7,7 @@ import (
 	"http"
 	"io/ioutil"
 	"strings"
-	"github.com/ajstarks/svgo"
+	"github.com/krasin/svgo"
 )
 
 var (

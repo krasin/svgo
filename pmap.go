@@ -10,7 +10,7 @@ import (
 	"os"
 	"io"
 	"xml"
-	"github.com/ajstarks/svgo"
+	"github.com/krasin/svgo"
 
 )
 

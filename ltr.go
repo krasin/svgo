@@ -3,7 +3,7 @@
 package main
 
 import (
-	"github.com/ajstarks/svgo"
+	"github.com/krasin/svgo"
 	"os"
 	"flag"
 )
